@@ -1,6 +1,6 @@
 🖥️ Creative Computer Science enthusiast, always up for developing new ideas.
 
-🎓 Graduated in Computer Science at UCLouvain, currently making my way out of the Master's degree at UniLu.
+🎓 Graduated with a Bachelor's degree in Computer Science from UCLouvain & a Master's degree in Information and Computer Sciences from UniLu.
 
 👨🏻‍💻 Worked here and there, but enjoyed the most my three summer student jobs at LUXHUB, where I touched everything from APIs to asset management and system setups.
 
